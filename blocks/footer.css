@@ -1,0 +1,15 @@
+.footer {
+  width: 166px;
+  height: auto;
+  margin: 0 auto;
+  font-size: 14px;
+  line-height: 16px;
+  padding-bottom: 24px;
+  font-weight: 400;
+}
+
+@media screen and (max-width: 544px) {
+  .footer {
+    padding-top: 0;
+  }
+}
